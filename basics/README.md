@@ -1,2 +1,2 @@
-# 6-firstdirectory Script
-This script creates a directory named my_first_directory in the /tmp/ directory.
+# 7-movethatfile Script
+This script moves the file betty from /tmp/ to /tmp/my_first_directory.
