@@ -1,2 +1,2 @@
-# 1-listit Script
-This script displays the contents of the current directory.
+# 2-bring_me_home Script
+This script changes the current working directory to the user's home directory.
