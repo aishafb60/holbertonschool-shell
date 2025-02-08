@@ -1,2 +1,3 @@
-# 2-bring_me_home Script
-This script changes the current working directory to the user's home directory.
+# 3-listfiles Script
+
+This script displays the current directory contents in a long format.
