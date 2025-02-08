@@ -1,2 +1,2 @@
-# 8-firstdelete Script
-This script deletes the file betty from /tmp/my_first_directory.
+# 9-firstdirdeletion Script
+This script deletes the directory my_first_directory from /tmp.
