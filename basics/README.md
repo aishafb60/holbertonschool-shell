@@ -1,1 +1,2 @@
-# 0-current_working_directory
+# 1-listit Script
+This script displays the contents of the current directory.
