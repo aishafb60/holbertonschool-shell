@@ -1,2 +1,2 @@
-# 9-firstdirdeletion Script
-This script deletes the directory my_first_directory from /tmp.
+# 10-back Script
+This script changes the working directory to the previous one.
