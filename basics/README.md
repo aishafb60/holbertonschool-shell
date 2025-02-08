@@ -1,2 +1,2 @@
-# 11-lists Script
-This script lists all files (including hidden ones) in the current directory, the parent directory, and the /boot directory in long format.
+# 12-file_type Script
+This script prints the type of the file named iamafile located in the /tmp directory.
