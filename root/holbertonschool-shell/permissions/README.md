@@ -1,3 +1,3 @@
-# Permissions Directory
+# 1-who_am_i
 
-This directory contains scripts related to user permissions.
+This script prints the effective username of the current user.
