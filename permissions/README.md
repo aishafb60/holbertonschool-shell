@@ -1,3 +1,1 @@
-## 3-new_owner
-
-This script changes the owner of the file `hello` to the user `betty`.
+This script creates an empty file named hello.
