@@ -1,3 +1,3 @@
-# Permissions Directory
+## 3-new_owner
 
-This directory contains scripts related to user permissions.
+This script changes the owner of the file `hello` to the user `betty`.
