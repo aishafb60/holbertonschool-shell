@@ -1,1 +1,1 @@
-This script displays the first 10 lines of the /etc/passwd file.
+This script creates a file named "*\\\"Best School\\\"*\\\$?*****:)" containing the text "Best School".
