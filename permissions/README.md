@@ -1,1 +1,1 @@
-This script sets the mode of the file hello to -rwxr-x-wx.
+# 13-change_group
